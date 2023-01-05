@@ -1,2 +1,24 @@
-# waut.dev-2022
-2022 waut.dev 
+# singularity
+
+## work in progress
+
+### todo:
+
+webapp
+
+mobile
+
+arg
+
+images update
+
+end
+
+phrases + colors
+
+list revamp
+
+fonts
+
+nft stealing simulator - hiatus
+
